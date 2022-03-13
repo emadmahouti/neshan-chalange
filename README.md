@@ -2,25 +2,24 @@
 
 ### Intro
 ```
-With this app you can choose two point of position
-if your current location detected automaticaly, one of these position set to your location (first index)
-if is not, you have to choose locations own your own
-Keep in mind that you can choose just two point of position
-not more
+In this app you can choose two point of position
+if the app detects your current location automaticaly, one of these position sets to your current location. (first index)
+if this is not the case, you have to choose locations own your own
+Keep in mind that you can only choose just two point of positions
 ```
 ### Direction
 ```
 After chosing these locations, bottom sheet dialog fragment goes up and display the address of position
-by clicking on Direction button route line goes to be shown and the marker navigate automaticaly on these route
+by clicking on Direction button, the app showes the route and the marker navigates automaticaly on this route.
 ```
 ### Grant permission and enable location
 ```
-By clicking on Location button if location permission granted and location was ON, camera start to movieng to your location
-if is not, ask to grant position and turn on the location
+if location permission is already granted and location service is enabled, by clicking on Location button camera start to movieng to your location
+otherwise, the application asks the user to grant location permission and to enabled location service
 ```
 
 ### Remove marker
 ```
-by click on the map when two mark was there,
-markers gone and you can choose new location
+while two marks are selected on the map, by clicking on the map
+markers disappears and you can choose new locations
 ```
