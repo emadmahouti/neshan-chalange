@@ -15,7 +15,7 @@ by clicking on Direction button route line goes to be shown and the marker navig
 ```
 ### Grant permission and enable location
 ```
-By click on Location button if location permission granted and location was ON, camera start to movieng to your location
+By clicking on Location button if location permission granted and location was ON, camera start to movieng to your location
 if is not, ask to grant position and turn on the location
 ```
 
