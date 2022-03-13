@@ -1,7 +1,8 @@
 # neshan-chalange
 ```
 With this app you can choose tow point of position
-if your current location detected automaticaly, on of these position set to your position (first index), if is not you have to choose locations own your own
+if your current location detected automaticaly, on of these position set to your position (first index)
+if is not you have to choose locations own your own
 ```
 ```
 Keep in mind that you can choose just to point of position
